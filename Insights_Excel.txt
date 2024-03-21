@@ -1,0 +1,22 @@
+Insights
+
+-Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+- Delhi tops in occupancy rate 60.38% followed by  Mumbai, Hyderabad, Bangalore
+-AtliQ Blu has the highest occupancy of 62.02 %
+-AtliQ Exotica performs better compared to all 7 type of properties with 66  Million revenue, occupancy percentage 56.44 % and cancellation rate as 24.65 %.
+-Elite type rooms has the most higher cancellation rate 24.96 %
+-Standard type rooms has the most occupancy rate 57.88%
+
+Results and Findings
+The analysis results are summarized as follows:
+
+Demand changes significantly from weekdays to weekends
+The company's revenue has been steadily increasing over the months, as the holiday season is approaching.
+Revenue has stayed constant for some hotels even though the occupancy was at its peak.
+
+Recommendations
+Based on the analysis, we recommend the following actions:
+
+Weekly pricing of the rooms should be adopted to maximize revenue for weekend bookings.
+Invest in marketing, promotions, and reputation on booking platforms to improve occupancy in low-performing hotel.
+Dynamic strategic pricing before the holiday season to account for seasonal change.
